@@ -14,4 +14,5 @@ exports.post = async(req, res, next) => {
     if (!validator.isValid()) {
         res.status(400).send(validator.errors()).end();
         return;
+    }
 }
