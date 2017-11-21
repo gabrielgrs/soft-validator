@@ -1,0 +1,42 @@
+{
+  "_from": "soft-validator@^1.0.2",
+  "_id": "soft-validator@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-8QbnrlPap8q4y95v4RgQU2fpsS1d1/V7AOzWdRmBjCluyrEtIkWx93qRw6HwyZAHf2xd9/mPlb0Y2aHijuQYKQ==",
+  "_location": "/soft-validator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "soft-validator@^1.0.2",
+    "name": "soft-validator",
+    "escapedName": "soft-validator",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/soft-validator/-/soft-validator-1.0.2.tgz",
+  "_shasum": "fa0ad1f1790e80da25ac06572fb420ad1c6c8edd",
+  "_spec": "soft-validator@^1.0.2",
+  "_where": "C:\\Users\\ggribeiro\\Desktop\\temp",
+  "author": {
+    "name": "gabrielgrs"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "const SoftValidator = require('soft-validator');",
+  "keywords": [
+    "gabrielgrs",
+    "soft",
+    "validator"
+  ],
+  "license": "ISC",
+  "main": "soft-validator.js",
+  "name": "soft-validator",
+  "scripts": {},
+  "version": "1.0.3"
+}
