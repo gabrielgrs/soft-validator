@@ -1,5 +1,14 @@
-# Tutorial para usar o soft-validator
+# Soft-Validator
 
+### Getting Start
+
+1. Install
+ ```bash
+ npm i -S soft-validator
+ ```
+2. Use to easy
+
+```js
 const SoftValidator = require('soft-validator');
 
 exports.post = async(req, res, next) => {
@@ -15,4 +24,11 @@ exports.post = async(req, res, next) => {
         res.status(400).send(validator.errors()).end();
         return;
     }
-}
+};
+```
+
+#### Contributors
+ [@renanbastos93](https://github.com/renanbastos93)
+
+#### LICENSE
+ [MIT](https://opensource.org/licenses/MIT)
