@@ -1,6 +1,5 @@
 {
   "_from": "soft-validator@^1.0.2",
-  "_id": "soft-validator@1.0.2",
   "_inBundle": false,
   "_integrity": "sha512-8QbnrlPap8q4y95v4RgQU2fpsS1d1/V7AOzWdRmBjCluyrEtIkWx93qRw6HwyZAHf2xd9/mPlb0Y2aHijuQYKQ==",
   "_location": "/soft-validator",
@@ -23,9 +22,7 @@
   "_shasum": "fa0ad1f1790e80da25ac06572fb420ad1c6c8edd",
   "_spec": "soft-validator@^1.0.2",
   "_where": "C:\\Users\\ggribeiro\\Desktop\\temp",
-  "author": {
-    "name": "gabrielgrs"
-  },
+  "author": "gabrielgrs",
   "bundleDependencies": false,
   "deprecated": false,
   "description": "const SoftValidator = require('soft-validator');",
@@ -34,9 +31,17 @@
     "soft",
     "validator"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "main": "soft-validator.js",
   "name": "soft-validator",
   "scripts": {},
-  "version": "1.0.3"
+  "version": "1.0.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbastos93/soft-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renanbastos93/soft-validator/issues"
+  },
+  "homepage": "https://github.com/renanbastos93/soft-validator#readme"
 }
